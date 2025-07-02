@@ -1,4 +1,4 @@
-# End-to-End Weather Prediction Machine Learning App
+# Real Time Weather Classification using Machine Learning
 
 This repository contains a multi-page Streamlit web application that demonstrates a complete end-to-end machine learning workflow. The application handles everything from rate-limited API data collection and CSV storage to interactive data exploration, feature selection, model training, and live prediction.
 
